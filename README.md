@@ -16,24 +16,24 @@ Dibangun dengan teknologi PHP, MySQL, dan frontend sederhana agar mudah diakses 
 ## 📷 Tampilan Website
 
 ### 🔑 Halaman Dashboard
-![Dashboard-tools](images/websitepoto/tools.jpeg)
-![Dashboard-prints](images/websitepoto/prints.jpeg)
-![Dashboard-info](images/websitepoto/info.jpeg)
+![Dashboard-tools](images/tools.jpeg)
+![Dashboard-prints](images/prints.jpeg)
+![Dashboard-info](images/info.jpeg)
 
 ### 🧍‍♀️ Halaman Tools
-![Tools-anggota-utama](images/websitepoto/anggota.jpeg)
-![Tools-anggota-edit](images/websitepoto/anggotaedit.jpeg)
-![Tools-anggota-tambah](images/websitepoto/anggotaup.jpeg)
-![Tools-kegiatan-utama](images/websitepoto/kegiatan.jpeg)
-![Tools-kegiatan-edit](images/websitepoto/kegiatanedit.jpeg)
-![Tools-kegiatan-tambah](images/websitepoto/kegiatanup.jpeg)
-![Tools-generateid](images/websitepoto/generateid.jpeg)
-![Tools-scan](images/websitepoto/scan.jpeg)
+![Tools-anggota-utama](images/anggota.jpeg)
+![Tools-anggota-edit](images/anggotaedit.jpeg)
+![Tools-anggota-tambah](images/anggotaup.jpeg)
+![Tools-kegiatan-utama](images/kegiatan.jpeg)
+![Tools-kegiatan-edit](images/kegiatanedit.jpeg)
+![Tools-kegiatan-tambah](images/kegiatanup.jpeg)
+![Tools-generateid](images/generateid.jpeg)
+![Tools-scan](images/scan.jpeg)
 
 ### 🏠 Halaman Print
-![Print-Harian](images/websitepoto/printday.jpeg)
-![Print-Bulanan](images/websitepoto/printbulan.jpeg)
-![Print-ID](images/websitepoto/printid.jpeg)
+![Print-Harian](images/printday.jpeg)
+![Print-Bulanan](images/printbulan.jpeg)
+![Print-ID](images/printid.jpeg)
 
 ---
 
@@ -53,8 +53,7 @@ Dibangun dengan teknologi PHP, MySQL, dan frontend sederhana agar mudah diakses 
 git clone https://github.com/eca-keren/hadirinproject.git
 ```
 2. Setup database pada komputer anda, lalu masukkan kredensial-kredensialnya ke file `.env`.
-```bash
-```
+
 3. Install dependency.
 ```bash
 composer install
