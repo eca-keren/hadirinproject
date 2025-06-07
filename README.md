@@ -15,25 +15,25 @@ Dibangun dengan teknologi PHP, MySQL, dan frontend sederhana agar mudah diakses 
 
 ## 📷 Tampilan Website
 
-### 🔑 Halaman Dashboard
-![Dashboard-tools](images/tools.jpeg)
-![Dashboard-prints](images/prints.jpeg)
-![Dashboard-info](images/info.jpeg)
+### 🔑 Halaman Dashboard-
+![Dashboard-tools](./public/images/tools.jpeg)
+![Dashboard-prints](./public/images/prints.jpeg)
+![Dashboard-info](./public/images/info.jpeg)
 
 ### 🧍‍♀️ Halaman Tools
-![Tools-anggota-utama](images/anggota.jpeg)
-![Tools-anggota-edit](images/anggotaedit.jpeg)
-![Tools-anggota-tambah](images/anggotaup.jpeg)
-![Tools-kegiatan-utama](images/kegiatan.jpeg)
-![Tools-kegiatan-edit](images/kegiatanedit.jpeg)
-![Tools-kegiatan-tambah](images/kegiatanup.jpeg)
-![Tools-generateid](images/generateid.jpeg)
-![Tools-scan](images/scan.jpeg)
+![Tools-anggota-utama](./public/images/anggota.jpeg)
+![Tools-anggota-edit](./public/images/anggotaedit.jpeg)
+![Tools-anggota-tambah](./public/images/anggotaup.jpeg)
+![Tools-kegiatan-utama](./public/images/kegiatan.jpeg)
+![Tools-kegiatan-edit](./public/images/kegiatanedit.jpeg)
+![Tools-kegiatan-tambah](./public/images/kegiatanup.jpeg)
+![Tools-generateid](./public/images/generateid.jpeg)
+![Tools-scan](./public/images/scan.jpeg)
 
 ### 🏠 Halaman Print
-![Print-Harian](images/printday.jpeg)
-![Print-Bulanan](images/printbulan.jpeg)
-![Print-ID](images/printid.jpeg)
+![Print-Harian](./public/images/printday.jpeg)
+![Print-Bulanan](./public/images/printbulan.jpeg)
+![Print-ID](./public/images/printid.jpeg)
 
 ---
 
