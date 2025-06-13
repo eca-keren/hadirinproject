@@ -83,6 +83,6 @@ npm run dev
 ---
 
 ## 👩‍💻 Dibuat Oleh
-Cessa Aqillah Jhonaidy
-SMKN 1 Kota Bengkulu
-GitHub: eca-keren
+Cessa Aqillah Jhonaidy |
+SMKN 1 Kota Bengkulu |
+GitHub: eca-keren 
